@@ -1,6 +1,7 @@
 Tarea: Lógica de programas 
 
-Utilizar la función println para mostrar los datos en pantalla:
+** Utilizar la función println para mostrar los datos en pantalla:
+** utilizar Clase y métodos para los ejercicios 1 al 5: 
  
 1. Elaborar un programa en java que permita recorrer los 30 días del mes y muestre a los días impares.
 2. Elaborar un programa en java que permita mostrar las estaciones del año (Primavera , Verano, Otoño, Invierno) por rangos de mes, mostrar en pantalla. 
